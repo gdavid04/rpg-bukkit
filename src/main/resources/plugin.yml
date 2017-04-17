@@ -1,0 +1,7 @@
+name: rpg
+main: me.gdavid.rpg.RPG
+version: 2.4.0
+author: gdavid
+commands:
+   rpg:
+      description: RPG's main command

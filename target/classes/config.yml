@@ -1,0 +1,14 @@
+levelup-xp-base: 1000
+levelup-xp-increase: 400
+levelup-hp-increase: 0.25
+levelup-atk-increase: 0.5
+max-level: 100
+lang:
+  warrior: 'warrior'
+  archer: 'archer'
+  warrior-desc: []
+  archer-desc: []
+  select-class: 'select class'
+  level: 'level'
+  level-up: 'Level up!'
+  no-class: 'Please chose a class!'
